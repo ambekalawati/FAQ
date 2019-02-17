@@ -55,6 +55,7 @@ public static void main(String[] args) {
 	System.out.println("Float :"+f);//0.0
 	System.out.println("Double :"+d);//0.0
 	Literals lt=new Literals();
+	lt.m4();
 	
 }
 
